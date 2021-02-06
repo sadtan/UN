@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 35ed8bbb40d744e44b3b90db60d51f79
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sero Pro
+  fontNames:
+  - Sero Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31d7523354b365a4280c91b381d562b1, type: 3}
+  - {fileID: 12800000, guid: 31cac607b63efd94f80fc4ed4c5d3874, type: 3}
+  - {fileID: 12800000, guid: a3c754aad4ed8e64fb8ef44949312c62, type: 3}
+  - {fileID: 12800000, guid: 10aa59fc803e57e4ea6726599ccaa2f1, type: 3}
+  - {fileID: 12800000, guid: 30aa840fb4d1d194d810ac32479a3bbe, type: 3}
+  - {fileID: 12800000, guid: 20d1ca2f3b15c9a408d3d1cb2b735bb1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
