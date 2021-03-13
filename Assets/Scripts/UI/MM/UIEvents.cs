@@ -38,17 +38,10 @@ public class UIEvents : MonoBehaviour
 
     }
     public void UpdateColors() {
-<<<<<<< HEAD
-        backgroundColors[0] = new Color32(255, 156, 40, 255);
-        backgroundColors[1] = new Color32(130, 162, 37, 255 );
-        backgroundColors[2] = new Color32(87 , 135, 207, 255);
-        backgroundColors[3] = new Color32(92 , 176, 159, 255);
-=======
         backgroundColors[0] = new Color32(77, 102, 45, 255);
         backgroundColors[1] = new Color32(129, 86, 28, 255 );
         backgroundColors[2] = new Color32(72 , 96, 114, 255);
         backgroundColors[3] = new Color32(115 , 136, 152, 255);
->>>>>>> master
         Debug.Log("Sala: " + currentSala);
         for (int i = 0; i < backgrounds.Length; ++i) {
             backgrounds[i].GetComponent<Image>().color = backgroundColors[currentSala -1];

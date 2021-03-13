@@ -6,7 +6,6 @@ public class TooltipSystem : MonoBehaviour {
     public static TooltipSystem current;
     public GameObject[] Menus;
     private bool goTo360 = false;
-    private bool goToSwipeObra = true;
 
     // priavate GameObject currentModal;
     private void Awake() {
